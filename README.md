@@ -1,3 +1,14 @@
+# Personal Notes
+
+`cd ..../coding/music-player-react/react-audio-player `
+`npm start`
+
+
+- Stock photos: https://unsplash.com/de/s/fotos/paleontology
+- Tutorial: https://blog.logrocket.com/building-audio-player-react/
+- State Hook tutorial: https://blog.logrocket.com/guide-usestate-react/
+- https://github.com/Ibaslogic/react-audio-player/blob/main/src/styles/index.css
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
